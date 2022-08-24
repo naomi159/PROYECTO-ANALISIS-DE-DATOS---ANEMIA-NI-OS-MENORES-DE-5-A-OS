@@ -19,10 +19,10 @@ De acuerdo a esta información, en el año 2009 de las trece provincias de Cusco
 ## DATOS
 Durante el año 2003 , el INS (Instituto Nacional de Salud) / CENAN implemento el SIEN (Sistema de Información del Estado Nutricional), el cual se basa en:
 
--Registrar
--Procesar
--Reportar
--Analizar
+- Registrar
+- Procesar
+- Reportar
+- Analizar
 
 Constantemente y sistemáticamente información del estado nutricional de niños menores de 5 años del primer nivel de atención del Ministerio de Salud, así como también de mujeres gestantes en este caso tomamos los casos de los niños menores de 5 años para nuestro estudio.
 
