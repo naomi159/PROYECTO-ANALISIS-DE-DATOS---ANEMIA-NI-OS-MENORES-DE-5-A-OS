@@ -50,6 +50,16 @@ Este sistema tiene como principal objetivo la generación de información oportu
 
 ![Data limpia](https://user-images.githubusercontent.com/72511623/186537111-ccfc9de7-42ec-49a8-83aa-3ee2e4b5f787.jpg)
 
+## Tareas analíticas
+
+- En qué lugares del cusco los niños tuvieron más problemas de anemia y que lo ocasiona 
+- Analizar los tipos de anemia según los meses de atención
+- Los niños con tipos de anemia más bajos ¿reciben alguna ayuda de algún programa del gobierno ?
+- En qué lugares del perú según el índice de masa corporal (desnutrición, sobrepeso, obesidad) los niños presentan anemia
+- ¿Los programas sociales ayudan en la disminución de la anemia ?
+- ¿ Según el peso de los niños menores de 5 años cuántos presentan anemia?
+
+
 ## Colaboradores ![descarga](https://user-images.githubusercontent.com/72511623/126371917-24df0242-6218-4cd8-8da8-3dd229f82203.png)
 
 - **MASIAS USCAMAYTA, NAOMI ISABEL** -*CUENTA GITHUB*- [NAOMI ISABEL](https://github.com/naomi159)
