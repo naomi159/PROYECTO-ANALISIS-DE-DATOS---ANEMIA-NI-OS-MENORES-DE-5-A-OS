@@ -37,7 +37,19 @@ Este sistema tiene como principal objetivo la generación de información oportu
 |Niños menores de 5 años de edad| PesoTalla, Talla, Hemoglobina/ Hematocrito|Talla/Edad (Desnutrición Crónica), Peso/Edad (Desnutrición Global), Peso/Talla (Desnutrición aguda, sobrepeso, obesidad), Hemoglobina o Hematocrito (Anemia leve, moderada y severa)|Estado nutricional de niños menores de 5 años: Patrones de crecimiento OMS 2006 |
 ## LIMPIEZA
 
+![Data original](https://user-images.githubusercontent.com/72511623/186537102-e567dfbe-48f3-42f7-8c22-e828e0e0dd00.jpg)
+
+### Pasos que se realizaron para limpieza de los datos:
+
+- Eliminación del exceso de columnas innecesarias para realizar el análisis.
+- Modificación del formato de fecha para que los datos puedan ser reconocidos por Excel.
+- Completar las casillas vacías para no obtener errores al momento de realizar el análisis de datos.
+- Modificar los pesos y tallas de los niños debido a que presentaban inconsistencias.
+- Calcular el índice de masa corporal según las edades de los niños para determinar el tipo de peso que presentan los niños.
+- Modificar los tipos variables.
+
+![Data limpia](https://user-images.githubusercontent.com/72511623/186537111-ccfc9de7-42ec-49a8-83aa-3ee2e4b5f787.jpg)
+
 ## Colaboradores ![descarga](https://user-images.githubusercontent.com/72511623/126371917-24df0242-6218-4cd8-8da8-3dd229f82203.png)
 
 - **MASIAS USCAMAYTA, NAOMI ISABEL** -*CUENTA GITHUB*- [NAOMI ISABEL](https://github.com/naomi159)
-
