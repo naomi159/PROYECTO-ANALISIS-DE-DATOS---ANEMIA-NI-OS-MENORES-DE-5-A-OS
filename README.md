@@ -57,9 +57,13 @@ Este sistema tiene como principal objetivo la generación de información oportu
 
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia10.PNG)
 
+- Analizar el Top 3 de los distritos con más casos de anemia y con menos casos de anemia (para las 3 provincias con mayor caso de anemia)
+
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia8.PNG)
 
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia9.PNG)
+
+- ¿Que tipo de anemia influenció la pertenencia al SIS?
 
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia11.PNG)
 
