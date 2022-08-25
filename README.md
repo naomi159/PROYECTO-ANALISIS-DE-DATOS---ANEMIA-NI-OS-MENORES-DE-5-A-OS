@@ -12,9 +12,7 @@
 ### REALIZAR UN ANÁLISIS DE DATOS DE LOS NIÑOS CON ANEMIA EN LA REGIÓN CUSCO
 ## PROBLEMA
 
-A nivel provincial, los últimos datos oficiales disponibles sobre desnutrición crónica infantil son de la ENDES del año 2009. La ENDES no incluye datos de anemia a nivel provincial.
- 
-De acuerdo a esta información, en el año 2009 de las trece provincias de Cusco, la que tenía el mayor índice de desnutrición crónica infantil era Canas, con 64,2 por ciento. Las provincias de Acomayo y Paruro también tenían un nivel de desnutrición infantil superior al 60 por ciento; y otras dos provincias, Paucartambo y Quispicanchis, tenían a más de la mitad de sus niños con desnutrición. La provincia de Cusco tenía, para esa fecha, el menor nivel de desnutrición infantil en la región, con 20,7 por ciento. El año 2009, el promedio regional de desnutrición crónica infantil era 38,4 por ciento.
+Según la ENDES, el porcentaje de niñas y niños de 6 a 35 meses de edad con prevalencia de anemia en el departamento de Cusco fue de 57.4% en el 2019. En relación al 2014 (56.3%) se dio un incremento de 1.1 punto porcentual, con respecto al 2018 (54.2%) un incremento de 3.2 puntos porcentuales y con respecto al 2021 (35.4%) se dio un decremento de 22 puntos porcentuales.
 
 ## DATOS
 Durante el año 2003 , el INS (Instituto Nacional de Salud) / CENAN implemento el SIEN (Sistema de Información del Estado Nutricional), el cual se basa en:
@@ -51,13 +49,22 @@ Este sistema tiene como principal objetivo la generación de información oportu
 ![Data limpia](https://user-images.githubusercontent.com/72511623/186537111-ccfc9de7-42ec-49a8-83aa-3ee2e4b5f787.jpg)
 
 ## Tareas analíticas
+- ¿Cuál es el comportamiento de la anemia según la edad de los niños?
+
+![anemia segun edad](https://user-images.githubusercontent.com/72511623/186569924-14bfb44b-4238-4fb5-9cfa-31965f07b0eb.jpg)
 
 - En qué lugares del cusco los niños tuvieron más problemas de anemia y que lo ocasiona 
+
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia10.PNG)
+
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia8.PNG)
+
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia9.PNG)
+
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia11.PNG)
+
 - Analizar los tipos de anemia según los meses de atención
+
 
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia3.PNG)
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia4.PNG)
@@ -70,13 +77,12 @@ Este sistema tiene como principal objetivo la generación de información oportu
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia12.PNG)
 
 - En qué lugares del perú según el índice de masa corporal (desnutrición, sobrepeso, obesidad) los niños presentan anemia
-
 - ¿Los programas sociales ayudan en la disminución de la anemia ?
 
-- ¿ Según el peso de los niños menores de 5 años cuántos presentan anemia?
-- 
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia13.PNG)
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia14.PNG)
+- ¿ Según el peso de los niños menores de 5 años cuántos presentan anemia?
+
 
 ## Colaboradores ![descarga](https://user-images.githubusercontent.com/72511623/126371917-24df0242-6218-4cd8-8da8-3dd229f82203.png)
 
