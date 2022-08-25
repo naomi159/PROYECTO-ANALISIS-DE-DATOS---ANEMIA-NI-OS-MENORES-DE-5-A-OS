@@ -71,6 +71,9 @@ Este sistema tiene como principal objetivo la generación de información oportu
 
 - En qué lugares del perú según el índice de masa corporal (desnutrición, sobrepeso, obesidad) los niños presentan anemia
 - ¿Los programas sociales ayudan en la disminución de la anemia ?
+
+![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia13.PNG)
+![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia14.PNG)
 - ¿ Según el peso de los niños menores de 5 años cuántos presentan anemia?
 
 
