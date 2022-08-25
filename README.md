@@ -74,7 +74,7 @@ Este sistema tiene como principal objetivo la generación de información oportu
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia4.PNG)
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia5.PNG)
 
-- Los niños con tipos de anemia más bajos ¿reciben alguna ayuda de algún programa del gobierno ?
+- ¿Los niños con algún tipo de anemia, reciben alguna ayuda de algún programa del gobierno?
 
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia6.PNG)
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia7.PNG)
