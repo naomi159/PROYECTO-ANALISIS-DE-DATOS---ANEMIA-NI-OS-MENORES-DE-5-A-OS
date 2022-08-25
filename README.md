@@ -54,11 +54,18 @@ Este sistema tiene como principal objetivo la generación de información oportu
 
 - En qué lugares del cusco los niños tuvieron más problemas de anemia y que lo ocasiona 
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia2.PNG)
+
 - Analizar los tipos de anemia según los meses de atención
+
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia3.PNG)
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia4.PNG)
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia5.PNG)
+
 - Los niños con tipos de anemia más bajos ¿reciben alguna ayuda de algún programa del gobierno ?
+
+![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia6.PNG)
+![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia7.PNG)
+
 - En qué lugares del perú según el índice de masa corporal (desnutrición, sobrepeso, obesidad) los niños presentan anemia
 - ¿Los programas sociales ayudan en la disminución de la anemia ?
 - ¿ Según el peso de los niños menores de 5 años cuántos presentan anemia?
