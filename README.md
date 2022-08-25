@@ -83,6 +83,10 @@ Este sistema tiene como principal objetivo la generación de información oportu
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia14.PNG)
 - ¿ Según el peso de los niños menores de 5 años cuántos presentan anemia?
 
+![ANEMIA SEGUN PESO](https://user-images.githubusercontent.com/72511623/186570683-b5308b74-754d-48a3-a22f-be7bb52bb6b9.jpg)
+
+![ANEMIA SEGUN PESO 2](https://user-images.githubusercontent.com/72511623/186570690-25ba7af4-3924-4f41-8ad1-acbd04879133.jpg)
+
 
 ## Colaboradores ![descarga](https://user-images.githubusercontent.com/72511623/126371917-24df0242-6218-4cd8-8da8-3dd229f82203.png)
 
