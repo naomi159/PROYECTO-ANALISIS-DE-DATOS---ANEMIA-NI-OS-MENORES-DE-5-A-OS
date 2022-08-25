@@ -63,3 +63,5 @@ Este sistema tiene como principal objetivo la generación de información oportu
 ## Colaboradores ![descarga](https://user-images.githubusercontent.com/72511623/126371917-24df0242-6218-4cd8-8da8-3dd229f82203.png)
 
 - **MASIAS USCAMAYTA, NAOMI ISABEL** -*CUENTA GITHUB*- [NAOMI ISABEL](https://github.com/naomi159)
+- **LUYCHO ANCAIFURO, MARIELA** -*CUENTA GITHUB*- [MLUANC](https://github.com/Mariela112)
+
