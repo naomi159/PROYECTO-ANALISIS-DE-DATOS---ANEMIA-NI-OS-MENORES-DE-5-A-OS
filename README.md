@@ -53,6 +53,7 @@ Este sistema tiene como principal objetivo la generación de información oportu
 ## Tareas analíticas
 
 - En qué lugares del cusco los niños tuvieron más problemas de anemia y que lo ocasiona 
+![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia2.PNG)
 - Analizar los tipos de anemia según los meses de atención
 - Los niños con tipos de anemia más bajos ¿reciben alguna ayuda de algún programa del gobierno ?
 - En qué lugares del perú según el índice de masa corporal (desnutrición, sobrepeso, obesidad) los niños presentan anemia
