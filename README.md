@@ -56,6 +56,7 @@ Este sistema tiene como principal objetivo la generación de información oportu
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia10.PNG)
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia8.PNG)
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia9.PNG)
+![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia11.PNG)
 - Analizar los tipos de anemia según los meses de atención
 
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia3.PNG)
@@ -66,6 +67,7 @@ Este sistema tiene como principal objetivo la generación de información oportu
 
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia6.PNG)
 ![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia7.PNG)
+![](https://github.com/naomi159/PROYECTO-ANALISIS-DE-DATOS---ANEMIA-NI-OS-MENORES-DE-5-A-OS/blob/main/Anemia12.PNG)
 
 - En qué lugares del perú según el índice de masa corporal (desnutrición, sobrepeso, obesidad) los niños presentan anemia
 - ¿Los programas sociales ayudan en la disminución de la anemia ?
