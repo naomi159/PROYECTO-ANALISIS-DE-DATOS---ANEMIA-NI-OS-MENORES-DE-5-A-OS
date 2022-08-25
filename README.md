@@ -92,5 +92,5 @@ Este sistema tiene como principal objetivo la generación de información oportu
 
 - **MASIAS USCAMAYTA, NAOMI ISABEL** -*CUENTA GITHUB*- [NAOMI ISABEL](https://github.com/naomi159)
 - **LUYCHO ANCAIFURO, MARIELA** -*CUENTA GITHUB*- [MLUANC](https://github.com/Mariela112)
-- **QUEKQAÑO QUISPE, CAYO ABEL** -*CUENTA GITHUB*- [CAYO ABEL] (https://github.com/CayoAbel)
+- **QUEKQAÑO QUISPE, CAYO ABEL** -*CUENTA GITHUB*- [CAYO ABEL](https://github.com/CayoAbel)
 
